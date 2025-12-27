@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh Dedha</h1>
 <h3 align="center">A passionate Artificial Intelligence Student from India,</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ4aWhxcTIydm4xeW45a3h5aDlpbjhucHFjZWc1NTd6NDZybHlwZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="coding" width="400" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/cf1ef989-f894-41ab-aae8-f8a2e4539dd5" />
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshdedha&label=Profile%20views&color=0e75b6&style=flat" alt="anshdedha" /> </p>
 
