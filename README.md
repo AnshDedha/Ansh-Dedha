@@ -3,9 +3,9 @@
 
 <p align="middle"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHR3a2psZWRsbTZwazdzdTZ4NG53YmI1MGFycGhnY3pjYmJ5aDdxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL, Data Visualization, Excel and Computational Techniques.**
+- 🌱 I’m currently learning **Python, SQL, Data Visualization, and Computational Techniques.**
 
-- 💬 Ask me about **Python, MySQL And Power Bi.**
+- 💬 Ask me about **Python, MySQL, Excel And Power Bi.**
 
 - 📫 How to reach me **gurjaransh4131@gmail.com**
 
